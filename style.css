@@ -132,6 +132,24 @@ section a{
     margin-top: 20px;
 }
 
+.box-f .box-text {
+    max-width: 600px;
+}
+
+/* Footer Styles  and Social */
+.footer-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 30px 30px;
+}
+
+.social img {
+    width: 35px;
+    height: 35px;
+}
+
+
 /* Grid System */
 .grid-col-2 {
     display: grid;
