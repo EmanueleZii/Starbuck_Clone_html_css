@@ -105,6 +105,18 @@ img {
     margin: 0. 5px;
 }
 
+/* Box Styles */
+
+.box {
+    margin-bottom: 30px;
+}
+
+.box-inner{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
 /* button styles */
 .btn {
     cursor: pointer;
@@ -202,4 +214,27 @@ img {
 
 .py-lg{
     padding: 40px 0 ;
+}
+
+@media (max-width: 968px) {
+    
+    .text-xl {
+        font-size: 30px;
+    }
+
+    .text-lg {
+        font-size: 24px;
+    }
+    .text-md {
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .box {
+        max-width: 1440px;
+        margin-right: auto;
+        margin-left: auto;
+    }
 }
