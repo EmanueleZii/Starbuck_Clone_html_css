@@ -21,6 +21,9 @@ Questo progetto riproduce la landing page con particolare attenzione al design m
 - Footer con link social
 - Modalità mobile con menu hamburger
 
+## Link 
+- [starbucks_clone](https://emanuelezii.github.io/Starbuck_Clone_html_css/) 
+
 ## 🚀 Come avviare il progetto
 
 1. Clona la repo:
