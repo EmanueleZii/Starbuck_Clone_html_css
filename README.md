@@ -15,9 +15,7 @@ Questo progetto riproduce la landing page con particolare attenzione al design m
 ## 🧩 Funzionalità
 
 - Hero section con immagini 
-- Navbar con effetto sticky e responsive
-- Sezione prodotti in evidenza
-- Sezione promozioni
+- Navbar responsive
 - Footer con link social
 - Modalità mobile con menu hamburger
 
